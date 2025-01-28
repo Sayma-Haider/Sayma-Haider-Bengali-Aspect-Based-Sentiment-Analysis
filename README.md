@@ -1,4 +1,4 @@
-# Bangla_ABSA_Datasets
+# Bangla ABSA
 
 This repository contains the implementation for aspect-based sentiment analysis using the Bangla_ABSA_Datasets. The research focuses on leveraging deep learning techniques to analyze sentiment in Bangla text.
 
