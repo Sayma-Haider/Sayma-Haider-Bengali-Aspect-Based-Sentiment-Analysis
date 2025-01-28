@@ -26,7 +26,6 @@ from tensorflow.keras.callbacks import EarlyStopping, ReduceLROnPlateau
 from sklearn.preprocessing import LabelEncoder
 
 # Load your Excel dataset
-# Replace 'your_dataset.xlsx' with your actual dataset file
 data = pd.read_excel("/content/drive/MyDrive/ML Projects/Restaurant.xlsx")
 
 # Split data into categories, sentiments, and opinions
