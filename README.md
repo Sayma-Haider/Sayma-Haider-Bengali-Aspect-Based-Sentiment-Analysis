@@ -7,7 +7,7 @@ The dataset is available [here](https://github.com/atik-05/Bangla_ABSA_Datasets)
 
 This code was created for the research article: "tRF-BERT: A transformative approach to aspect-based sentiment analysis in the bengali language" (https://doi.org/10.1371/journal.pone.0308050).
 
-If you use this code or dataset, please cite the paper.
+If you use this dataset, please cite the paper.
 
 ## Requirements
 - Python 3.8+
