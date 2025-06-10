@@ -94,7 +94,6 @@ from tensorflow.keras.callbacks import EarlyStopping, ReduceLROnPlateau
 from sklearn.preprocessing import LabelEncoder
 
 # Load your Excel dataset
-# Replace 'your_dataset.xlsx' with your actual dataset file
 data = pd.read_excel("/content/drive/MyDrive/SA/Cricket.xlsx")
 
 # Split data into categories, sentiments, and opinions
@@ -166,7 +165,6 @@ from tensorflow.keras.callbacks import EarlyStopping, ReduceLROnPlateau
 from sklearn.preprocessing import LabelEncoder
 
 # Load your Excel dataset
-# Replace 'your_dataset.xlsx' with your actual dataset file
 data = pd.read_excel("/content/drive/MyDrive/SA/Cricket.xlsx")
 
 # Split data into categories, sentiments, and opinions
@@ -239,7 +237,6 @@ from tensorflow.keras.callbacks import EarlyStopping, ReduceLROnPlateau
 from sklearn.preprocessing import LabelEncoder
 
 # Load your Excel dataset
-# Replace 'your_dataset.xlsx' with your actual dataset file
 data = pd.read_excel("/content/drive/MyDrive/SA/Cricket.xlsx")
 
 # Split data into categories, sentiments, and opinions
@@ -317,7 +314,6 @@ from tensorflow.keras.models import Model
 from tensorflow.keras.callbacks import EarlyStopping, ReduceLROnPlateau
 
 # Load your Excel dataset
-# Replace 'your_dataset.xlsx' with your actual dataset file
 data = pd.read_excel("/content/drive/MyDrive/SA/Cricket.xlsx")
 
 # Split data into categories, sentiments, and opinions
